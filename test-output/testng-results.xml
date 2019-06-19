@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46" started-at="2019-06-11T10:10:05Z" finished-at="2019-06-11T10:10:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46" started-at="2019-06-11T10:10:05Z" finished-at="2019-06-11T10:10:05Z">
+      <class name="a2.TestNGClass">
+        <test-method status="PASS" signature="startCar()[pri:0, instance:a2.TestNGClass@51efea79]" name="startCar" is-config="true" duration-ms="6" started-at="2019-06-11T15:40:05Z" finished-at="2019-06-11T15:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startCar -->
+        <test-method status="PASS" signature="driveCar()[pri:1, instance:a2.TestNGClass@51efea79]" name="driveCar" duration-ms="7" started-at="2019-06-11T15:40:05Z" finished-at="2019-06-11T15:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driveCar -->
+        <test-method status="PASS" signature="stopCar()[pri:0, instance:a2.TestNGClass@51efea79]" name="stopCar" is-config="true" duration-ms="1" started-at="2019-06-11T15:40:05Z" finished-at="2019-06-11T15:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopCar -->
+        <test-method status="PASS" signature="driveCar2()[pri:2, instance:a2.TestNGClass@51efea79]" name="driveCar2" duration-ms="2" started-at="2019-06-11T15:40:05Z" finished-at="2019-06-11T15:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driveCar2 -->
+        <test-method status="PASS" signature="startCar()[pri:0, instance:a2.TestNGClass@51efea79]" name="startCar" is-config="true" duration-ms="0" started-at="2019-06-11T15:40:05Z" finished-at="2019-06-11T15:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startCar -->
+        <test-method status="PASS" signature="stopCar()[pri:0, instance:a2.TestNGClass@51efea79]" name="stopCar" is-config="true" duration-ms="0" started-at="2019-06-11T15:40:05Z" finished-at="2019-06-11T15:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopCar -->
+      </class> <!-- a2.TestNGClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
